@@ -5,16 +5,7 @@
       "title": "Picture Perfect",
       "description": "When her seven-year-old nephew, a hemophiliac, mysteriously disappears during their camping trip, pediatrician Lorrie Ryan races against time to find the missing boy with the help of FBI agent Stuart Saunders. Previously published as Panda Bear Is Critical. Reprint.",
       "img_url": "http://books.google.com/books/content?id=CEMZ1OoPDIAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 2,
-          "username": "auer"
-        },
-        {
-          "id": 8,
-          "username": "goodwin"
-        }
-      ]
+      "users": "auer,goodwin[object Object]"
     },
     {
       "id": 2,
@@ -41,84 +32,35 @@
       "title": "Urban Outlaws",
       "description": "Living life off the radar can be tough - as the Urban Outlaws are about to find out . . . Because no one's anonymous. No one's untraceable. No one's safe. The first in a sensational new series of high-octane, high-tech thrillers",
       "img_url": "http://books.google.com/books/content?id=xTSmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "goodwin"
-        },
-        {
-          "id": 9,
-          "username": "nikolaus"
-        }
-      ]
+      "users": "goodwin,nikolaus[object Object]"
     },
     {
       "id": 4,
       "title": "The Kill",
       "description": "When the man she had helped convict of the rape and murder of her sister is set free because of exculpatory evidence, FBI scientist Olivia St. Martin launches her own investigation to uncover the truth about the case, only to discover that a brutal serial killer has been at large for years and, posing as a field agent, joins forces with Seattle detective Zack Travis to stop the monster. Original.",
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 8,
-          "username": "goodwin"
-        }
-      ]
+      "users": "macejkovic,goodwin[object Object]"
     },
     {
       "id": 5,
       "title": "Payback",
       "description": "FIGHTING TO SURVIVE Nia Sharpe never expected to get caught in the crosshairs of a drug war. But with the return of her criminal brother, her life is suddenly on the line. Thankfully, her handsome boss, Aiden McBride, is there when she needs him most. Nia knows Aiden is still reeling from his past, so when the war vet steps in to keep her safe, Nia is touched by his heroic actions. Now staying ahead of the bad guys is their best chance of surviving. But watching Aiden fight for her—for them—gives her hope that they could share more than just this deadly situation. Perhaps they could share a future… Echo Mountain: Saving lives and finding love in the mountains of Washington State",
       "img_url": "http://books.google.com/books/content?id=bNYgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "batz"
-        },
-        {
-          "id": 8,
-          "username": "goodwin"
-        }
-      ]
+      "users": 4
     },
     {
       "id": 6,
       "title": "Whispers",
       "description": "When her father decides to run for governor of Oregon, Claire St. John is forced to confront long-buried secrets as she copes with unexpected feelings for Kane Moran, a handsome journalist with a grudge, who threatens to tell all.",
       "img_url": "http://books.google.com/books/content?id=TmocdXScYFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 7,
-          "username": "steuber"
-        },
-        {
-          "id": 4,
-          "username": "batz"
-        }
-      ]
+      "users": 6
     },
     {
       "id": 7,
       "title": "Iron Lake",
       "description": "Includes excerpt of Heaven's Keep by William Kent Krueger (p. [439-447]).",
       "img_url": "http://books.google.com/books/content?id=nSEVSnb8wpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 5,
-          "username": "king"
-        }
-      ]
+      "users": 5
     },
     {
       "id": 8,
@@ -145,20 +87,7 @@
       "title": "Rocky Mountain Pursuit",
       "description": "IDENTITY: CONFIDENTIAL Everyone believes agent Jase Bradford is dead--everyone but Reyna Peterson. Only he can protect her now that someone wants the information her CIA husband died to secure. As the one member of their spy team not killed, Jase must remain in the shadows. Yet when Reyna leads the enemy right to his mountain refuge and blows his cover, Jase risks his life for hers. As his best friend's beautiful widow scales the walls around his heart, whether out of loyalty or love, he makes it his duty to secure her safety. But when their pursuers trap them in the snowy Colorado mountains, will it become his final mission?",
       "img_url": "http://books.google.com/books/content?id=hmbACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "goodwin"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
-          "id": 5,
-          "username": "king"
-        }
-      ]
+      "users": 7
     },
     {
       "id": 10,
